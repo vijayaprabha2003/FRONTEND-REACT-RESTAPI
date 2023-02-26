@@ -1,0 +1,24 @@
+.homepageBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+}
+.homepageBody a{
+    width: 130px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 0, 0);
+    color: aliceblue;
+    font-size: large;
+    border: none;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.homepageBody h1{
+    color: white;
+    
+}
